@@ -1,0 +1,12 @@
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Rooms.txt
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Zork.deps.json
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Zork.runtimeconfig.json
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Zork.runtimeconfig.dev.json
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Zork.dll
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\bin\Debug\netcoreapp2.2\Zork.pdb
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.csprojAssemblyReference.cache
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.csproj.CoreCompileInputs.cache
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.AssemblyInfoInputs.cache
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.AssemblyInfo.cs
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.dll
+C:\Users\de768578\Downloads\Zork-DWill2121-patch-1\Zork-DWill2121-patch-1\Zork\obj\Debug\netcoreapp2.2\Zork.pdb
