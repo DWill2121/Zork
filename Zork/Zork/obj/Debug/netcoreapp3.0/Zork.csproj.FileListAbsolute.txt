@@ -1,0 +1,14 @@
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.exe
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.csprojAssemblyReference.cache
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.AssemblyInfoInputs.cache
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.AssemblyInfo.cs
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.deps.json
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.runtimeconfig.json
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.runtimeconfig.dev.json
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.dll
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.pdb
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.csproj.CopyComplete
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.dll
+F:\Zork\Zork\obj\Debug\netcoreapp3.0\Zork.pdb
+F:\Zork\Zork\bin\Debug\netcoreapp3.0\Zork.json
